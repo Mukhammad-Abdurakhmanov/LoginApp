@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="title_text">Книга добрых дел</string>
+    <string name="description_text">единственный в своём роде трекер хороших дел в 3 простых шага</string>
+    <string name="enter_text">Войти</string>
+    <string name="registration_text">Регистрация</string>
+</resources>
